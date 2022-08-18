@@ -1,0 +1,13 @@
+.friend-list{
+    margin: 50px 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+    font-family: 'Inconsolata';
+
+    list-style-type: none;
+    padding: 0;
+}

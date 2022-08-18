@@ -1,0 +1,15 @@
+.transaction td{
+    padding: 10px;
+}
+
+.transaction td:first-child{
+    padding-left: 40px;
+}
+
+.transaction:nth-child(2n){
+    background-color: rgba(255, 111, 233, 0.1);
+}
+
+.transaction td:nth-child(n + 2){
+    text-align: center;
+}
